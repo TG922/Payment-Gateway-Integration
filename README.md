@@ -7,9 +7,10 @@
 ![](https://img.shields.io/github/license/Candida18/GRIP?style=for-the-badge) &emsp; &emsp;
 
 <br>
+
 ## SOFTWARE REQUIREMENTS
 <ul type="square">
-  <li> <b> Frontend : </b>
+  <li> <b> Frontend Tech: </b>
        <p align="left"> 
           <a href="https://www.w3.org/html/" target="_blank" > 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
