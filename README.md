@@ -34,5 +34,4 @@
   <br>
  
 ## RESULTS
-
-<b><a href="https://candida1804.000webhostapp.com/">Click here</a> to view the website</b>
+<b><a href="">Click here</a> to view the website</b>
