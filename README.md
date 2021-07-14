@@ -7,7 +7,6 @@
 ![](https://img.shields.io/github/license/Candida18/GRIP?style=for-the-badge) &emsp; &emsp;
 
 <br>
-
 ## SOFTWARE REQUIREMENTS
 <ul type="square">
   <li> <b> Frontend : </b>
@@ -32,6 +31,7 @@
   </ul>
   
   <br>
+ 
  
 ## RESULTS
 <b><a href="">Click here</a> to view the website</b>
