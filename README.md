@@ -2,8 +2,8 @@
 
 <br>
 
-![](https://img.shields.io/github/forks/Candida18/GRIP?style=for-the-badge) &emsp; &emsp;
 ![](https://img.shields.io/github/stars/Candida18/GRIP?style=for-the-badge) &emsp; &emsp;
+![](https://img.shields.io/github/forks/Candida18/GRIP?style=for-the-badge) &emsp; &emsp;
 ![](https://img.shields.io/github/license/Candida18/GRIP?style=for-the-badge) &emsp; &emsp;
 
 <br>
