@@ -1,0 +1,85 @@
+a{
+  color: #0085A1;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: white;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #053737;
+}
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color:#053737 ;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+}
+
+#footerpad {
+  padding-top: 70px;
+  padding-bottom: 20px;
+  background-color: black;
+}
+
+a:focus, a:hover {
+  color: #0085A1;
+}
+
+hr {
+  margin: 1rem 0;
+  color: inherit;
+  background-color: #053737;
+  border: 0;
+ 
+}
+hr:not([size]) {
+  height: 3px;
+}
+
+.btn-primary {
+  color: white;
+  background-color: #053737;
+  border-color: #053737;
+}
+
+.btn-check:focus + .btn-primary,
+.btn-primary:focus {
+  color: #000;
+  background-color: #053737;
+  border-color: #053737;
+}
+
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  color:#053737 ;
+  background-color:white !important;
+  border-color: white;
+}
+
+.btn-read {
+  color: white;
+  background-color: #053737;
+  border-color: #053737;
+}
+
+.btn-read:hover,
+.btn-read:focus,
+.btn-read:active {
+  color:#053737 ;
+  background-color:#4fbdc2 !important;
+  border-color: #4fbdc2;
+}
+
+.bg-primary {
+  background-color:#d1f4f0 !important;
+}
+
+#services{
+  background-color: #4fbdc2;
+}
