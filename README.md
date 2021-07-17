@@ -34,5 +34,4 @@
   <br>
  
  
-## RESULTS
-<b><a href="">Click here</a> to view the website</b>
+
