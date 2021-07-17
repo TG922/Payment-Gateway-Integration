@@ -12,8 +12,6 @@ The website has the following specification -
 7. Invoice will be generated
 
 
-![image](https://user-images.githubusercontent.com/70098839/126051538-9267b239-a9c7-4a95-be64-45ed16c49c54.png)
-
 Flow: Home Page > Donate button> The user will land on payment page>Select amount to be paid>Select payment type > Once payment done > Invoice will be generated!
 
 
