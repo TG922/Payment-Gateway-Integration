@@ -1,13 +1,18 @@
 # BasicBankingSystem
-Sparks Foundation Web Development Internship Project : Basic Banking System website.
-Starting with creating a dummy data in database.
+Sparks Foundation Web Development Internship Project : Payment Integration System.
 A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
 
 The website has the following specification -
-1. A dummy data for upto 10 customers
-2. Customers table with basic fields such as name, email, current balance etc.
-3. Transaction status
-3. Transfer table/ Transfer History which records all the transactions
+1. Home Page
+2. Donate button
+3. The user will land on payment page
+4. Select amount to be paid
+5. Select payment type
+6. Once payment done
+7. Invoice will be generated
+
+
+![image](https://user-images.githubusercontent.com/70098839/126051538-9267b239-a9c7-4a95-be64-45ed16c49c54.png)
 
 Flow: Home Page > Donate button> The user will land on payment page>Select amount to be paid>Select payment type > Once payment done > Invoice will be generated!
 
