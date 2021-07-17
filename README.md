@@ -9,7 +9,7 @@ The website has the following specification -
 3. Transaction status
 3. Transfer table/ Transfer History which records all the transactions
 
-Home Page > Donate button> The user will land on payment page>Select amount to be paid>Select payment type > Once payment done > Invoice will be generated!
+Flow: Home Page > Donate button> The user will land on payment page>Select amount to be paid>Select payment type > Once payment done > Invoice will be generated!
 
 
 # TASK #3
