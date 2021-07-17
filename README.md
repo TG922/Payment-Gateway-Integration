@@ -9,7 +9,8 @@ The website has the following specification -
 3. Transaction status
 3. Transfer table/ Transfer History which records all the transactions
 
-Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
+Home Page > Donate button> The user will land on payment page>Select amount to be paid>Select payment type > Once payment done > Invoice will be generated!
+
 
 # TASK #3
 
