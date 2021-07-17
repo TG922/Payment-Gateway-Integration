@@ -1,6 +1,6 @@
 # BasicBankingSystem
 Sparks Foundation Web Development Internship Project : Payment Integration System.
-A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
+A web application used to tranfer virtual money between users and once payment done an invoice will be generated.
 
 The website has the following specification -
 1. Home Page
