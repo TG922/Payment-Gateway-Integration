@@ -1,4 +1,4 @@
-# BasicBankingSystem
+# Payment Integration System
 Sparks Foundation Web Development Internship Project : Payment Integration System.
 A web application used to tranfer virtual money between users and once payment done an invoice will be generated.
 
